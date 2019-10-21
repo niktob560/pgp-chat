@@ -1,2 +1,2 @@
 # pgp-chat-rust
-bash chat written in rust
+pgp chat written in rust
