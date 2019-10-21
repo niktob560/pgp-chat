@@ -1,2 +1,2 @@
-# pgp-chat
-bash chat with php+mysql as backand
+# pgp-chat-rust
+bash chat written in rust
